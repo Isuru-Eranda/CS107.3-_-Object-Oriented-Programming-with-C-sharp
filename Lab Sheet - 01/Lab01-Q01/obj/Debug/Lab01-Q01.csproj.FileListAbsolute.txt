@@ -1,0 +1,7 @@
+C:\Users\isuru\Downloads\C-Sharp-Lab-master\C-Sharp-Lab-master\Lab01-Q01\bin\Debug\Lab01-Q01.exe.config
+C:\Users\isuru\Downloads\C-Sharp-Lab-master\C-Sharp-Lab-master\Lab01-Q01\bin\Debug\Lab01-Q01.exe
+C:\Users\isuru\Downloads\C-Sharp-Lab-master\C-Sharp-Lab-master\Lab01-Q01\bin\Debug\Lab01-Q01.pdb
+C:\Users\isuru\Downloads\C-Sharp-Lab-master\C-Sharp-Lab-master\Lab01-Q01\obj\Debug\Lab01-Q01.csproj.AssemblyReference.cache
+C:\Users\isuru\Downloads\C-Sharp-Lab-master\C-Sharp-Lab-master\Lab01-Q01\obj\Debug\Lab01-Q01.csproj.CoreCompileInputs.cache
+C:\Users\isuru\Downloads\C-Sharp-Lab-master\C-Sharp-Lab-master\Lab01-Q01\obj\Debug\Lab01-Q01.exe
+C:\Users\isuru\Downloads\C-Sharp-Lab-master\C-Sharp-Lab-master\Lab01-Q01\obj\Debug\Lab01-Q01.pdb
